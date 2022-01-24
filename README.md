@@ -1,4 +1,4 @@
-# Genletter
+# Letter Generator
 
 
 ## About
