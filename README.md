@@ -8,3 +8,5 @@ Letter Generator is an website where an user can generate any type of letter whe
 
 ## Screenshots
 ![1](https://user-images.githubusercontent.com/68656122/150932098-a6685ff0-21d5-411f-a2f9-ad074c91dc31.png)
+
+![2](https://user-images.githubusercontent.com/68656122/151293687-5b70fda6-7b5f-4dd4-9eec-f375c68f7c3e.png)
